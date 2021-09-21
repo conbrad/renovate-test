@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/conbrad/renovate-test#readme",
   "dependencies": {
-    "jest": "25.0.0"
+    "jest": "25.5.4"
   }
 }
