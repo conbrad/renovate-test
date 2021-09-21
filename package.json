@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/conbrad/renovate-test/issues"
   },
-  "homepage": "https://github.com/conbrad/renovate-test#readme"
+  "homepage": "https://github.com/conbrad/renovate-test#readme",
+  "dependencies": {
+    "jest": "25.0.0"
+  }
 }
