@@ -11,5 +11,7 @@
       "groupName": "all non-major dependencies",
       "groupSlug": "all-minor-patch"
     }
-  ]
+  ],
+  "autodiscover": true,
+  "autodiscoverFilter": "conbrad/renovate-test"
 }
